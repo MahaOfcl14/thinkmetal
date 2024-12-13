@@ -13,6 +13,7 @@ import Designers from "./component/Designers/Designers"
 import Loop from "./component/Loop/Loop"
 import RequestDemo from "./component/RequestDemo/RequestDemo"
 import Footer from "./component/Footer/Footer"
+import Animation from "./component/Animation/Animation"
 
 const AppLayout = () => {
     return (

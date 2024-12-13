@@ -1,5 +1,8 @@
 const Besttime = () => {
     return (
+      <>
+      
+      
         <div>
         <div className="2xl:container mx-auto bg-[#FD4E25]  pb-[40px] ">
 
@@ -195,6 +198,7 @@ const Besttime = () => {
      
                     </div>
                     </div>
+                    </>
                     
     )
 }
